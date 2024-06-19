@@ -8,6 +8,13 @@
 <h3 align="left"> I'm a university student majoring in SmartIT</h3>
 <h4 align="left">💻 I'm just starting out in the world of coding and excited to learn and grow.</h4>
 <p align="left">
+  <h4 align="left">🌟 Interests:</h4>
+  <ul align="left">
+    <li>Artificial Intelligence and Machine Learning</li>
+    <li>Spring Framework</li>
+  </ul>
+</div>
+<br>
 </p>
 <br>
 <img src="https://img.shields.io/badge/Most%20Used%20Language-Java-blue?style=flat&logo=java" alt="Most Used Language: Java">
@@ -16,13 +23,14 @@
 <h2 align="center">🔧 Tech Stack 🔧</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-181717?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+
 </p>
 <br>
 
